@@ -1,0 +1,4 @@
+-覆蓋img資料夾
+
+-賣花
+ctrl+f找$stall_amount to random會發現html裡面有三個結果
