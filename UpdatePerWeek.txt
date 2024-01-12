@@ -2,3 +2,6 @@
 
 -賣花
 ctrl+f找$stall_amount to random會發現html裡面有三個結果
+
+-作弊模式
+Degrees of Lewdity.html ctrl+f找"button cheat" 然後把上一行的"; and $cheatdisable is &quot;f&quot"刪掉就可以了
